@@ -1,5 +1,6 @@
 {
   "name": "carolsail/think-migration",
+  "description": "基于top-think/think-migration, 针对tp5.0修复implode函数报错问题",
   "authors": [
     {
       "name": "carolsail",
@@ -18,5 +19,6 @@
   },
   "require-dev": {
     "topthink/framework": "^5.0"
-  }
+  },
+  "minimum-stability": "dev"
 }
