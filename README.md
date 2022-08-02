@@ -2,7 +2,7 @@
 
 ## 安装
 ~~~
-composer require carolsail/think-migration
+composer require carolsail/think-migration dev-master
 ~~~
 
 ## 修复implode()函数报错问题
